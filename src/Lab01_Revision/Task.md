@@ -53,7 +53,7 @@ In this exercise, you will create a Student Grades Management System in Java. Th
 **1. Main Method**: This method will contain the main menu and user interaction.
 
 ```java
-   public static void main(String[] args) {
+public static void main(String[] args) {
     // Main program logic and menu options
 }
  ```
@@ -61,7 +61,7 @@ In this exercise, you will create a Student Grades Management System in Java. Th
 **2. Helper Method: Finding a Student by ID:** This method searches for a student by their ID and returns their index.
 
 ```java
-    public static int findStudentIndex(String[] studentIDs, String studentID) {
+public static int findStudentIndex(String[] studentIDs, String studentID) {
     // Search logic for student ID
 }
  ```   
